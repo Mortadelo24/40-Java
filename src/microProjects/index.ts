@@ -1,0 +1,1 @@
+export {renderColorFlipper} from './colorFlipper/colorFlipper'
